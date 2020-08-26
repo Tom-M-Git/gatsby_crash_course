@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: "/gatsby_crash_course",
+  
   siteMetadata: {
     title: `Gatsby Crash Course`,
     description: `This is a sample website for the Gatsby crash course`,
